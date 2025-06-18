@@ -1,0 +1,25 @@
+body {
+    background-color: olive;
+}
+
+#lyric-box {
+    background-color: blanchedalmond;
+    width: 500px;
+}
+
+#lyric {
+    color: olive;
+}
+
+#details {
+    color: olive;
+}
+
+#new-lyric{
+    background-color: olive;
+    color: blanchedalmond;
+}
+
+#coder a {
+    color: blanchedalmond;
+}
