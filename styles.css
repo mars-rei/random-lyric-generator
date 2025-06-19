@@ -4,6 +4,7 @@ body {
 
 #lyric-box {
     background-color: blanchedalmond;
+    width: 300px;
 }
 
 #lyric {
@@ -21,12 +22,6 @@ body {
 
 #coder a {
     color: blanchedalmond;
-}
-
-@media (min-width: 481px) {
-    #lyric-box {
-        width: 300px;
-    }
 }
   
 @media (min-width: 601px) {
